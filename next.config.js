@@ -45,5 +45,5 @@ module.exports = {
       : '',
     BASE: isProd ? '/process-scheduling-solver' : '',
   },
-  basePath: isProd ? '/process-scheduling-solver' : '',
+  basePath: isProd ? '/' : '',
 };
